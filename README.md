@@ -71,3 +71,10 @@ Fetches information about a player using their Steam ID. Displays:
 
 
 
+## Disclaimer
+
+This project uses the Steam Web API and the BattleMetrics API to fetch player data and sessions. The use of these APIs complies with their respective terms of service. This project is not affiliated with or endorsed by Steam, Valve Corporation, or BattleMetrics.
+
+Data provided by:
+- [Steam Web API](https://partner.steamgames.com/doc/webapi_overview)
+- [BattleMetrics API](https://www.battlemetrics.com/developers)
